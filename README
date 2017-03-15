@@ -1,0 +1,7 @@
+This is vscs-1.0.0 (Very Simple Chat Server).
+
+Build it with "gcc -Wall -o chatserv chatserv.c" command or simply "make chatserv".
+
+Run it with "./chatserv portnum" command or simply "./chatserv" on default port 12345.
+
+As a chat client you can use telnet or nc utilities. Simply type "nc localhost 12345" at the same machine where vscs is running.
